@@ -8,6 +8,18 @@
     <artifactId>MyLeetCode</artifactId>
     <version>1.0</version>
 
+    <developers>
+        <developer>
+            <id>mrAlex</id>
+            <name>Yurii Salimov</name>
+            <email>yuriy.alex.salimov@gmail.com</email>
+            <roles>
+                <role>developer</role>
+            </roles>
+            <timezone>Ukraine/Kyiv</timezone>
+        </developer>
+    </developers>
+
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
