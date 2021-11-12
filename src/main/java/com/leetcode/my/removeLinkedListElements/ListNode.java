@@ -1,4 +1,4 @@
-package com.leetcode.my.addTwoNumbers;
+package com.leetcode.my.removeLinkedListElements;
 
 import java.util.Objects;
 

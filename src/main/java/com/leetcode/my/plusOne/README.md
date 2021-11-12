@@ -52,6 +52,4 @@ __Constraints:__
 * `0 <= digits[i] <= 9`
 * `digits` does not contain any leading `0`'s.
 
----
-
 [On LeetCode](https://leetcode.com/problems/plus-one/)

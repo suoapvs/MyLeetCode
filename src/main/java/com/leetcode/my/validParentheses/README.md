@@ -45,6 +45,4 @@ __Constraints:__
 * <code>1 <= s.length <= 10<sup>4</sup></code>
 * `s` consists of parentheses only `'()[]{}'`.
 
----
-
 [On LeetCode](https://leetcode.com/problems/valid-parentheses/)

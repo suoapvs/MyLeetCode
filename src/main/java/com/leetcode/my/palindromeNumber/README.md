@@ -39,9 +39,7 @@ __Example 4:__
 __Constraints:__
 * <code>-2<sup>31</sup> <= x <= 2<sup>31</sup> - 1</code>
 
-__Follow up:__ Could you solve it without 
-converting the integer to a string?
-
----
+__Follow up:__ 
+Could you solve it without converting the integer to a string?
 
 [On LeetCode](https://leetcode.com/problems/palindrome-number/)

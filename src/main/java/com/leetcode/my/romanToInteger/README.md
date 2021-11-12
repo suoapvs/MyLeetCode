@@ -36,7 +36,6 @@ where subtraction is used:
 Given an integer, convert it to a roman numeral.
 
 __Example 1:__
-
 <pre>
 <b>Input:</b> s = "III"
 <b>Output:</b> 3
@@ -74,7 +73,5 @@ __Constraints:__
   `('I', 'V', 'X', 'L', 'C', 'D', 'M')`.
   It is __guaranteed__ that `s` is a valid roman numeral 
   in the range `[1, 3999]`.
-
----
 
 [On LeetCode](https://leetcode.com/problems/roman-to-integer/)

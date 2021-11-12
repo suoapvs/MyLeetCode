@@ -36,7 +36,6 @@ where subtraction is used:
 Given an integer, convert it to a roman numeral.
 
 __Example 1:__
-
 <pre>
 <b>Input:</b> num = 3
 <b>Output:</b> "III"
@@ -70,7 +69,5 @@ __Example 5:__
 
 __Constraints:__
 * `1 <= num <= 3999`
-
----
 
 [On LeetCode](https://leetcode.com/problems/integer-to-roman/)

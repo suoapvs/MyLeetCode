@@ -27,6 +27,4 @@ __Constraints:__
 * Both `num1` and `num2` do not contain any 
   leading zero, except the number 0 itself.
 
----
-
 [On LeetCode](https://leetcode.com/problems/multiply-strings/)

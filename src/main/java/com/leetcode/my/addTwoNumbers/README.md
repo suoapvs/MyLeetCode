@@ -38,6 +38,4 @@ __Constraints:__
 * It is guaranteed that the list represents a number 
   that does not have leading zeros.
 
----
-
 [On LeetCode](https://leetcode.com/problems/add-two-numbers/)

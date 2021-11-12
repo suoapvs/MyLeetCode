@@ -1,8 +1,9 @@
-package com.leetcode.my.addTwoNumbers;
+package com.leetcode.my.validPalindrome;
 
 import lombok.experimental.Delegate;
 
-class AddTwoNumbersSolution2Test extends BaseSolutionTest {
+class ValidPalindromeSolution2Test
+        extends BaseSolutionTest {
 
     @Delegate
     private final Solution2 solution = new Solution2();

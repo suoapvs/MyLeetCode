@@ -35,6 +35,4 @@ __Constraints:__
 * <code>-10<sup>9</sup> <= target <= 10<sup>9</sup></code>
 * __Only one valid answer exists.__
 
----
-
 [On LeetCode](https://leetcode.com/problems/two-sum/)
