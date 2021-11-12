@@ -3,7 +3,7 @@
 <table>
 <tr>
     <th>Status</th>
-    <th>Status</th>
+    <th>Title</th>
     <th>Difficulty</th>
 </tr>
 
