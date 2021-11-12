@@ -56,11 +56,7 @@ class Solution2 {
                     precedence = 6;
                     break;
                 case 'M':
-                    if (precedence > 7) {
-                        num -= 1000;
-                    } else {
-                        num += 1000;
-                    }
+                    num += 1000;
                     precedence = 7;
                     break;
             }
