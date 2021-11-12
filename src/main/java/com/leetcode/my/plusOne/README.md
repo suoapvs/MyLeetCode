@@ -1,14 +1,18 @@
+<a href="https://leetcode.com/problems/plus-one/" target="_blank">
+    <img src="https://assets.leetcode.com/static_assets/public/webpack_bundles/images/logo-dark.e99485d9b.svg"
+        style="width:150px" alt="LeetCode"/>
+</a>
+
 ### 66. Plus One
 
 <span style="color:green">Easy</span>
 
-You are given a __large integer__ represented as an integer array `digits`, 
-where each `digits[i]` is the <code>i<sup>th</sup></code> digit of 
-the integer. The digits are ordered from most significant to least 
-significant in left-to-right order. 
-The large integer does not contain any leading `0`'s.
+You are given a __large integer__ represented as an integer array `digits`,
+where each `digits[i]` is the <code>i<sup>th</sup></code> digit of the integer.
+The digits are ordered from most significant to least significant in
+left-to-right order. The large integer does not contain any leading `0`'s.
 
-Increment the large integer by one and return 
+Increment the large integer by one and return
 _the resulting array of digits_.
 
 __Example 1:__
@@ -48,8 +52,7 @@ Thus, the result should be [1,0].
 </pre>
 
 __Constraints:__
+
 * `1 <= digits.length <= 100`
 * `0 <= digits[i] <= 9`
 * `digits` does not contain any leading `0`'s.
-
-[On LeetCode](https://leetcode.com/problems/plus-one/)

@@ -1,11 +1,16 @@
+<a href="https://leetcode.com/problems/palindrome-number/" target="_blank">
+    <img src="https://assets.leetcode.com/static_assets/public/webpack_bundles/images/logo-dark.e99485d9b.svg"
+        style="width:150px" alt="LeetCode"/>
+</a>
+
 ### 9. Palindrome Number
 
 <span style="color:orange">Medium</span>
 
 Given an integer `x`, return `true` if `x` is palindrome integer.
 
-An integer is a __palindrome__ when it reads the same backward 
-as forward. For example, `121` is palindrome while `123` is not.
+An integer is a __palindrome__ when it reads the same backward as forward. For
+example, `121` is palindrome while `123` is not.
 
 __Example 1:__
 <pre>
@@ -37,9 +42,8 @@ __Example 4:__
 </pre>
 
 __Constraints:__
+
 * <code>-2<sup>31</sup> <= x <= 2<sup>31</sup> - 1</code>
 
-__Follow up:__ 
+__Follow up:__
 Could you solve it without converting the integer to a string?
-
-[On LeetCode](https://leetcode.com/problems/palindrome-number/)

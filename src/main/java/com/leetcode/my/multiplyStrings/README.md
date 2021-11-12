@@ -1,13 +1,17 @@
+<a href="https://leetcode.com/problems/multiply-strings/" target="_blank">
+    <img src="https://assets.leetcode.com/static_assets/public/webpack_bundles/images/logo-dark.e99485d9b.svg"
+        style="width:150px" alt="LeetCode"/>
+</a>
+
 ### 43. Multiply Strings
 
 <span style="color:orange">Medium</span>
 
-Given two non-negative integers `num1` and `num2` represented 
-as strings, return the product of `num1` and `num2`, 
-also represented as a string.
+Given two non-negative integers `num1` and `num2` represented as strings, return
+the product of `num1` and `num2`, also represented as a string.
 
-__Note:__ You must not use any built-in BigInteger library 
-or convert the inputs to integer directly.
+__Note:__ You must not use any built-in BigInteger library or convert the inputs
+to integer directly.
 
 __Example 1:__
 <pre>
@@ -22,9 +26,8 @@ __Example 2:__
 </pre>
 
 __Constraints:__
+
 * `1 <= num1.length, num2.length <= 200`
 * `num1` and `num2` consist of digits only.
-* Both `num1` and `num2` do not contain any 
-  leading zero, except the number 0 itself.
-
-[On LeetCode](https://leetcode.com/problems/multiply-strings/)
+* Both `num1` and `num2` do not contain any leading zero, except the number 0
+  itself.

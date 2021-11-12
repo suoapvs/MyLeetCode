@@ -1,14 +1,18 @@
+<a href="https://leetcode.com/problems/add-two-numbers/" target="_blank">
+    <img src="https://assets.leetcode.com/static_assets/public/webpack_bundles/images/logo-dark.e99485d9b.svg" 
+         style="width:150px" alt="LeetCode"/>
+</a>
+
 ### 2. Add Two Numbers
 
 <span style="color:orange">Medium</span>
 
-You are given two non-empty linked lists representing two 
-non-negative integers. The digits are stored in reverse order, 
-and each of their nodes contains a single digit. 
-Add the two numbers and return the sum as a linked list.
+You are given two non-empty linked lists representing two non-negative integers.
+The digits are stored in reverse order, and each of their nodes contains a
+single digit. Add the two numbers and return the sum as a linked list.
 
-You may assume the two numbers do not contain any leading zero, 
-except the number 0 itself.
+You may assume the two numbers do not contain any leading zero, except the
+number 0 itself.
 
 __Example 1:__
 
@@ -33,9 +37,8 @@ __Example 3:__
 </pre>
 
 __Constraints:__
+
 * The number of nodes in each linked list is in the range `[1,100]`.
 * `0 <= Node.val <= 9`
-* It is guaranteed that the list represents a number 
-  that does not have leading zeros.
-
-[On LeetCode](https://leetcode.com/problems/add-two-numbers/)
+* It is guaranteed that the list represents a number that does not have leading
+  zeros.

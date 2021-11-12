@@ -1,10 +1,14 @@
+<a href="https://leetcode.com/problems/merge-two-sorted-lists/" target="_blank">
+    <img src="https://assets.leetcode.com/static_assets/public/webpack_bundles/images/logo-dark.e99485d9b.svg"
+        style="width:150px" alt="LeetCode"/>
+</a>
+
 ### 21. Merge Two Sorted Lists
 
 <span style="color:green">Easy</span>
 
-Merge two sorted linked lists and return it as a __sorted__ list. 
-The list should be made by splicing together the nodes of 
-the first two lists.
+Merge two sorted linked lists and return it as a __sorted__ list. The list
+should be made by splicing together the nodes of the first two lists.
 
 __Example 1:__
 
@@ -28,8 +32,7 @@ __Example 3:__
 </pre>
 
 __Constraints:__
+
 * The number of nodes in each linked list is in the range `[1,50]`.
 * `-100 <= Node.val <= 100`
 * Both `l1` and `l2` are sorted in __non-decreasing__ order.
-
-[On LeetCode](https://leetcode.com/problems/merge-two-sorted-lists/)

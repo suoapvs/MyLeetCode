@@ -1,14 +1,18 @@
+<a href="https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/" target="_blank">
+    <img src="https://assets.leetcode.com/static_assets/public/webpack_bundles/images/logo-dark.e99485d9b.svg"
+        style="width:150px" alt="LeetCode"/>
+</a>
+
 ### 108. Convert Sorted Array to Binary Search Tree
 
 <span style="color:green">Easy</span>
 
-Given an integer array `nums` where the elements are 
-sorted in __ascending order__, convert it to _a __height-balanced__ 
+Given an integer array `nums` where the elements are sorted in __ascending
+order__, convert it to _a __height-balanced__
 binary search tree_.
 
-A __height-balanced__ binary tree is a binary tree in which 
-the depth of the two subtrees of every node never differs 
-by more than one.
+A __height-balanced__ binary tree is a binary tree in which the depth of the two
+subtrees of every node never differs by more than one.
 
 __Example 1:__
 
@@ -30,8 +34,7 @@ __Example 2:__
 </pre>
 
 __Constraints:__
+
 * <code>1 <= nums.length <= 10<sup>4</sup></code>
 * <code>-10<sup>4</sup> <= nums[i] <= 10<sup>4</sup></code>
 * `nums` is sorted in a __strictly increasing__ order.
-
-[On LeetCode](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/)

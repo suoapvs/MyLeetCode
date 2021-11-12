@@ -1,12 +1,17 @@
+<a href="https://leetcode.com/problems/two-sum/">
+    <img src="https://assets.leetcode.com/static_assets/public/webpack_bundles/images/logo-dark.e99485d9b.svg"
+        style="width:150px" alt="LeetCode"/>
+</a>
+
 ### 1. Two Sum
 
 <span style="color:green">Easy</span>
 
-Given an array of integers `nums` and an integer `target`, 
-return _indices of the two numbers such that they add up to `target`_.
+Given an array of integers `nums` and an integer `target`, return _indices of
+the two numbers such that they add up to `target`_.
 
-You may assume that each input would have ___exactly___ __one solution__, 
-and you may not use the _same_ element twice.
+You may assume that each input would have ___exactly___ __one solution__, and
+you may not use the _same_ element twice.
 
 You can return the answer in any order.
 
@@ -30,9 +35,8 @@ __Example 3:__
 </pre>
 
 __Constraints:__
+
 * <code>2 <= nums.length <= 10<sup>4</sup></code>
 * <code>-10<sup>9</sup> <= nums[i] <= 10<sup>9</sup></code>
 * <code>-10<sup>9</sup> <= target <= 10<sup>9</sup></code>
 * __Only one valid answer exists.__
-
-[On LeetCode](https://leetcode.com/problems/two-sum/)

@@ -1,4 +1,9 @@
-## My LeetCode
+<a href="https://leetcode.com" target="_blank">
+    <img src="https://assets.leetcode.com/static_assets/public/webpack_bundles/images/logo-dark.e99485d9b.svg" 
+         style="width:200px" alt="LeetCode"/>
+</a>
+
+### My solutions:
 
 <table>
 <tr>
@@ -7,6 +12,7 @@
     <th>Difficulty</th>
 </tr>
 
+[//]: # (1. Two Sum)
 <tr>
     <td style="color:green;text-align:center">&#10003;</td>
     <td>
@@ -17,6 +23,7 @@
     <td style="color:green;text-align:center">Easy</td>
 </tr>
 
+[//]: # (2. Add Two Numbers)
 <tr>
     <td style="color:green;text-align:center">&#10003;</td>
     <td>
@@ -27,6 +34,7 @@
     <td style="color:orange;text-align:center">Medium</td>
 </tr>
 
+[//]: # (9. Palindrome Number)
 <tr>
     <td style="color:green;text-align:center">&#10003;</td>
     <td>
@@ -37,6 +45,7 @@
     <td style="color:green;text-align:center">Easy</td>
 </tr>
 
+[//]: # (12. Integer to Roman)
 <tr>
     <td style="color:green;text-align:center">&#10003;</td>
     <td>
@@ -47,6 +56,7 @@
     <td style="color:orange;text-align:center">Medium</td>
 </tr>
 
+[//]: # (13. Roman to Integer)
 <tr>
     <td style="color:green;text-align:center">&#10003;</td>
     <td>
@@ -57,6 +67,7 @@
     <td style="color:green;text-align:center">Easy</td>
 </tr>
 
+[//]: # (14. Longest Common Prefix)
 <tr>
     <td style="color:green;text-align:center">&#10003;</td>
     <td>
@@ -67,6 +78,7 @@
     <td style="color:green;text-align:center">Easy</td>
 </tr>
 
+[//]: # (20. Valid Parentheses)
 <tr>
     <td style="color:green;text-align:center">&#10003;</td>
     <td>
@@ -77,6 +89,7 @@
     <td style="color:green;text-align:center">Easy</td>
 </tr>
 
+[//]: # (21. Merge Two Sorted Lists)
 <tr>
     <td style="color:green;text-align:center">&#10003;</td>
     <td>
@@ -87,6 +100,7 @@
     <td style="color:green;text-align:center">Easy</td>
 </tr>
 
+[//]: # (43. Multiply Strings)
 <tr>
     <td style="color:green;text-align:center">&#10003;</td>
     <td>
@@ -97,6 +111,7 @@
     <td style="color:orange;text-align:center">Medium</td>
 </tr>
 
+[//]: # (66. Plus One)
 <tr>
     <td style="color:green;text-align:center">&#10003;</td>
     <td>
@@ -107,6 +122,7 @@
     <td style="color:green;text-align:center">Easy</td>
 </tr>
 
+[//]: # (69. Sqrt x)
 <tr>
     <td style="color:green;text-align:center">&#10003;</td>
     <td>
@@ -117,6 +133,7 @@
     <td style="color:green;text-align:center">Easy</td>
 </tr>
 
+[//]: # (104. Maximum Depth of Binary Tree)
 <tr>
     <td style="color:green;text-align:center">&#10003;</td>
     <td>
@@ -127,6 +144,7 @@
     <td style="color:green;text-align:center">Easy</td>
 </tr>
 
+[//]: # (108. Convert Sorted Array to Binary Search Tree)
 <tr>
     <td style="color:green;text-align:center">&#10003;</td>
     <td>
@@ -137,6 +155,7 @@
     <td style="color:green;text-align:center">Easy</td>
 </tr>
 
+[//]: # (125. Valid Palindrome)
 <tr>
     <td style="color:green;text-align:center">&#10003;</td>
     <td>
@@ -147,6 +166,7 @@
     <td style="color:green;text-align:center">Easy</td>
 </tr>
 
+[//]: # (203. Remove Linked List Elements)
 <tr>
     <td style="color:green;text-align:center">&#10003;</td>
     <td>
@@ -157,6 +177,7 @@
     <td style="color:green;text-align:center">Easy</td>
 </tr>
 
+[//]: # (367. Valid Perfect Square)
 <tr>
     <td style="color:green;text-align:center">&#10003;</td>
     <td>
@@ -167,6 +188,7 @@
     <td style="color:green;text-align:center">Easy</td>
 </tr>
 
+[//]: # (371. Sum of Two Integers)
 <tr>
     <td style="color:green;text-align:center">&#10003;</td>
     <td>
@@ -178,5 +200,3 @@
 </tr>
 
 </table>
-
-[LeetCode](https://leetcode.com)

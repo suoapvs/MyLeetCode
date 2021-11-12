@@ -1,9 +1,14 @@
+<a href="https://leetcode.com/problems/sum-of-two-integers/">
+    <img src="https://assets.leetcode.com/static_assets/public/webpack_bundles/images/logo-dark.e99485d9b.svg"
+        style="width:150px" alt="LeetCode"/>
+</a>
+
 ### 371. Sum of Two Integers
 
 <span style="color:orange">Medium</span>
 
-Given two integers `a` and `b`, return _the sum of 
-the two integers without using the operators `+` and `-`._
+Given two integers `a` and `b`, return _the sum of the two integers without
+using the operators `+` and `-`._
 
 __Example 1:__
 <pre>
@@ -18,6 +23,5 @@ __Example 2:__
 </pre>
 
 __Constraints:__
-* `-1000 <= a, b <= 1000`
 
-[On LeetCode](https://leetcode.com/problems/sum-of-two-integers/)
+* `-1000 <= a, b <= 1000`

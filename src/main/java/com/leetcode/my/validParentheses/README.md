@@ -1,10 +1,15 @@
+<a href="https://leetcode.com/problems/valid-parentheses/">
+    <img src="https://assets.leetcode.com/static_assets/public/webpack_bundles/images/logo-dark.e99485d9b.svg"
+        style="width:150px" alt="LeetCode"/>
+</a>
+
 ### 20. Valid Parentheses
 
 <span style="color:green">Easy</span>
 
-Given a string s containing just the characters 
-`'('`, `')'`, `'{'`, `'}'`, `'['` and `']'`, 
-determine if the input string is valid.
+Given a string s containing just the characters
+`'('`, `')'`, `'{'`, `'}'`, `'['` and `']'`, determine if the input string is
+valid.
 
 An input string is valid if:
 
@@ -42,7 +47,6 @@ __Example 5:__
 </pre>
 
 __Constraints:__
+
 * <code>1 <= s.length <= 10<sup>4</sup></code>
 * `s` consists of parentheses only `'()[]{}'`.
-
-[On LeetCode](https://leetcode.com/problems/valid-parentheses/)
