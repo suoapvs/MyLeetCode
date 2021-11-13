@@ -1,5 +1,5 @@
 <a href="https://leetcode.com" target="_blank">
-    <img src="https://assets.leetcode.com/static_assets/public/webpack_bundles/images/logo-dark.e99485d9b.svg" 
+    <img src="leetcode-logo.jpg" 
          style="width:200px" alt="LeetCode"/>
 </a>
 
