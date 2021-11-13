@@ -100,6 +100,17 @@
     <td style="color:green;text-align:center">Easy</td>
 </tr>
 
+[//]: # (35. Search Insert Position)
+<tr>
+    <td style="color:green;text-align:center">&#10003;</td>
+    <td>
+        <a href="/src/main/java/com/leetcode/my/searchInsertPosition">
+            35. Search Insert Position
+        </a>
+    </td>
+    <td style="color:green;text-align:center">Easy</td>
+</tr>
+
 [//]: # (43. Multiply Strings)
 <tr>
     <td style="color:green;text-align:center">&#10003;</td>
@@ -166,12 +177,56 @@
     <td style="color:green;text-align:center">Easy</td>
 </tr>
 
+[//]: # (130. Surrounded Regions)
+<tr>
+    <td style="color:green;text-align:center">&#10003;</td>
+    <td>
+        <a href="/src/main/java/com/leetcode/my/surroundedRegions">
+            130. Surrounded Regions
+        </a>
+    </td>
+    <td style="color:orange;text-align:center">Medium</td>
+</tr>
+
+[//]: # (189. Rotate Array)
+<tr>
+    <td style="color:green;text-align:center">&#10003;</td>
+    <td>
+        <a href="/src/main/java/com/leetcode/my/rotateArray">
+            189. Rotate Array
+        </a>
+    </td>
+    <td style="color:orange;text-align:center">Medium</td>
+</tr>
+
 [//]: # (203. Remove Linked List Elements)
 <tr>
     <td style="color:green;text-align:center">&#10003;</td>
     <td>
         <a href="/src/main/java/com/leetcode/my/removeLinkedListElements">
             203. Remove Linked List Elements
+        </a>
+    </td>
+    <td style="color:green;text-align:center">Easy</td>
+</tr>
+
+[//]: # (278. First Bad Version)
+<tr>
+    <td style="color:green;text-align:center">&#10003;</td>
+    <td>
+        <a href="/src/main/java/com/leetcode/my/firstBadVersion">
+            278. First Bad Version
+        </a>
+    </td>
+    <td style="color:green;text-align:center">Easy</td>
+</tr>
+
+[//]: # (283. Move Zeroes)
+<tr>
+    <td style="color:green;text-align:center">&#10003;</td>
+    <td>
+        <a href="/src/main/java/com/leetcode/my/moveZeroes">
+            283. Move Zeroes
         </a>
     </td>
     <td style="color:green;text-align:center">Easy</td>
@@ -197,6 +252,39 @@
         </a>
     </td>
     <td style="color:orange;text-align:center">Medium</td>
+</tr>
+
+[//]: # (704. Binary Search)
+<tr>
+    <td style="color:green;text-align:center">&#10003;</td>
+    <td>
+        <a href="/src/main/java/com/leetcode/my/binarySearch">
+            704. Binary Search
+        </a>
+    </td>
+    <td style="color:green;text-align:center">Easy</td>
+</tr>
+
+[//]: # (739. Daily Temperatures)
+<tr>
+    <td style="color:green;text-align:center">&#10003;</td>
+    <td>
+        <a href="/src/main/java/com/leetcode/my/dailyTemperatures">
+            739. Daily Temperatures
+        </a>
+    </td>
+    <td style="color:orange;text-align:center">Medium</td>
+</tr>
+
+[//]: # (977. Squares of a Sorted Array)
+<tr>
+    <td style="color:green;text-align:center">&#10003;</td>
+    <td>
+        <a href="/src/main/java/com/leetcode/my/squaresOfASortedArray">
+            977. Squares of a Sorted Array
+        </a>
+    </td>
+    <td style="color:green;text-align:center">Easy</td>
 </tr>
 
 </table>
