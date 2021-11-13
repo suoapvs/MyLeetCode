@@ -1,6 +1,5 @@
 <a href="https://leetcode.com/problems/maximum-depth-of-binary-tree/" target="_blank">
-    <img src="https://assets.leetcode.com/static_assets/public/webpack_bundles/images/logo-dark.e99485d9b.svg" 
-         style="width:150px" alt="LeetCode"/>
+    <img src="/leetcode-logo.png" style="width:200px" alt="LeetCode"/>
 </a>
 
 ### 104. Maximum Depth of Binary Tree

@@ -1,6 +1,5 @@
 <a href="https://leetcode.com" target="_blank">
-    <img src="/leetcode-logo.png" 
-         style="width:200px" alt="LeetCode"/>
+    <img src="/leetcode-logo.png" style="width:200px" alt="LeetCode"/>
 </a>
 
 ### My solutions:
