@@ -10,8 +10,8 @@ class Solution1 {
         int j = s.length() - 1;
         while (i < j) {
             if (isAlphaNumeric(s.charAt(i))) {
-                if (isAlphaNumeric(s.charAt(j))){
-                    if (!equalsIgnoreCase(s.charAt(i), s.charAt(j))){
+                if (isAlphaNumeric(s.charAt(j))) {
+                    if (!equalsIgnoreCase(s.charAt(i), s.charAt(j))) {
                         return false;
                     }
                     i++;
@@ -38,6 +38,6 @@ class Solution1 {
     }
 
     private static char toLowerCase(final char c) {
-        return (c >= 'A' && c <= 'Z') ? (char)(c + 32) : c;
+        return (c >= 'A' && c <= 'Z') ? (char) (c + 32) : c;
     }
 }

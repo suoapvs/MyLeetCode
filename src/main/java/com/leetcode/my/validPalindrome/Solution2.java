@@ -41,6 +41,6 @@ public class Solution2 {
     }
 
     private static char toLowerCase(final char c) {
-        return (c >= 'A' && c <= 'Z') ? (char)(c + 32) : c;
+        return (c >= 'A' && c <= 'Z') ? (char) (c + 32) : c;
     }
 }

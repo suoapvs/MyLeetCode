@@ -32,7 +32,7 @@ class Solution {
     }
 
     // Use DFS to turn internal however boundary-connected 'O' to '@';
-    private void boundaryDFS(
+    private static void boundaryDFS(
             final char[][] board,
             final int i,
             final int j

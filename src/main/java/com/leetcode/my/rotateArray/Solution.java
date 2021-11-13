@@ -13,7 +13,7 @@ class Solution {
         reverse(nums, k, n - 1);
     }
 
-    private void reverse(int[] nums, int i, int j) {
+    private static void reverse(int[] nums, int i, int j) {
         int tmp;
         while (i < j) {
             tmp = nums[i];

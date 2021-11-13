@@ -10,7 +10,7 @@ class Solution {
         }
     }
 
-    private void swap(int[] nums, int i, int j) {
+    private static void swap(int[] nums, int i, int j) {
         final int temp = nums[i];
         nums[i] = nums[j];
         nums[j] = temp;

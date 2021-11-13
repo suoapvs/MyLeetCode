@@ -9,8 +9,8 @@ class Solution1 {
         ListNode dummy = new ListNode(0);
         dummy.next = head;
         ListNode current = dummy;
-        while(current.next != null) {
-            if(current.next.val == val) {
+        while (current.next != null) {
+            if (current.next.val == val) {
                 current.next = current.next.next;
             } else {
                 current = current.next;
