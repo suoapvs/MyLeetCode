@@ -1,6 +1,4 @@
-<a href="https://leetcode.com" target="_blank">
-    <img src="/leetcode-logo.png" style="width:200px" alt="LeetCode"/>
-</a>
+[![LeetCode](/leetcode-logo.png)](https://leetcode.com)
 
 ### My solutions:
 
