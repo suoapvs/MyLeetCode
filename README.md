@@ -1,4 +1,6 @@
-[![LeetCode](/leetcode-logo.png)](https://leetcode.com)
+<a href="https://leetcode.com" target="_blank">
+    <img src="/leetcode-logo.png" style="width:200px" alt="LeetCode"/>
+</a>
 
 ### My solutions:
 
@@ -282,6 +284,17 @@
         </a>
     </td>
     <td style="color:green;text-align:center">Easy</td>
+</tr>
+
+[//]: # (1286. Iterator for Combination)
+<tr>
+    <td style="color:green;text-align:center">&#10003;</td>
+    <td>
+        <a href="/src/main/java/com/leetcode/my/iteratorForCombination">
+            1286. Iterator for Combination
+        </a>
+    </td>
+    <td style="color:orange;text-align:center">Medium</td>
 </tr>
 
 </table>
