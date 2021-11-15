@@ -1,333 +1,38 @@
-<a href="https://leetcode.com" target="_blank">
+<a href="https://leetcode.com">
     <img src="/leetcode-logo.png" style="width:200px" alt="LeetCode"/>
 </a>
 
 ### My solutions:
 
-<table>
-<tr>
-    <th>Status</th>
-    <th>Title</th>
-    <th>Difficulty</th>
-</tr>
-
-[//]: # (1. Two Sum)
-<tr>
-    <td style="color:green;text-align:center">&#10003;</td>
-    <td>
-        <a href="/src/main/java/com/leetcode/my/twoSum">
-            1. Two Sum
-        </a>
-    </td>
-    <td style="color:green;text-align:center">Easy</td>
-</tr>
-
-[//]: # (2. Add Two Numbers)
-<tr>
-    <td style="color:green;text-align:center">&#10003;</td>
-    <td>
-        <a href="/src/main/java/com/leetcode/my/addTwoNumbers">
-            2. Add Two Numbers
-        </a>
-    </td>
-    <td style="color:orange;text-align:center">Medium</td>
-</tr>
-
-[//]: # (9. Palindrome Number)
-<tr>
-    <td style="color:green;text-align:center">&#10003;</td>
-    <td>
-        <a href="/src/main/java/com/leetcode/my/palindromeNumber">
-            9. Palindrome Number
-        </a>
-    </td>
-    <td style="color:green;text-align:center">Easy</td>
-</tr>
-
-[//]: # (12. Integer to Roman)
-<tr>
-    <td style="color:green;text-align:center">&#10003;</td>
-    <td>
-        <a href="/src/main/java/com/leetcode/my/integerToRoman">
-            12. Integer to Roman
-        </a>
-    </td>
-    <td style="color:orange;text-align:center">Medium</td>
-</tr>
-
-[//]: # (13. Roman to Integer)
-<tr>
-    <td style="color:green;text-align:center">&#10003;</td>
-    <td>
-        <a href="/src/main/java/com/leetcode/my/romanToInteger">
-            13. Roman to Integer
-        </a>
-    </td>
-    <td style="color:green;text-align:center">Easy</td>
-</tr>
-
-[//]: # (14. Longest Common Prefix)
-<tr>
-    <td style="color:green;text-align:center">&#10003;</td>
-    <td>
-        <a href="/src/main/java/com/leetcode/my/longestCommonPrefix">
-            14. Longest Common Prefix
-        </a>
-    </td>
-    <td style="color:green;text-align:center">Easy</td>
-</tr>
-
-[//]: # (20. Valid Parentheses)
-<tr>
-    <td style="color:green;text-align:center">&#10003;</td>
-    <td>
-        <a href="/src/main/java/com/leetcode/my/validParentheses">
-            20. Valid Parentheses
-        </a>
-    </td>
-    <td style="color:green;text-align:center">Easy</td>
-</tr>
-
-[//]: # (21. Merge Two Sorted Lists)
-<tr>
-    <td style="color:green;text-align:center">&#10003;</td>
-    <td>
-        <a href="/src/main/java/com/leetcode/my/mergeTwoSortedLists">
-            21. Merge Two Sorted Lists
-        </a>
-    </td>
-    <td style="color:green;text-align:center">Easy</td>
-</tr>
-
-[//]: # (35. Search Insert Position)
-<tr>
-    <td style="color:green;text-align:center">&#10003;</td>
-    <td>
-        <a href="/src/main/java/com/leetcode/my/searchInsertPosition">
-            35. Search Insert Position
-        </a>
-    </td>
-    <td style="color:green;text-align:center">Easy</td>
-</tr>
-
-[//]: # (43. Multiply Strings)
-<tr>
-    <td style="color:green;text-align:center">&#10003;</td>
-    <td>
-        <a href="/src/main/java/com/leetcode/my/multiplyStrings">
-            43. Multiply Strings
-        </a>
-    </td>
-    <td style="color:orange;text-align:center">Medium</td>
-</tr>
-
-[//]: # (66. Plus One)
-<tr>
-    <td style="color:green;text-align:center">&#10003;</td>
-    <td>
-        <a href="/src/main/java/com/leetcode/my/plusOne">
-            66. Plus One
-        </a>
-    </td>
-    <td style="color:green;text-align:center">Easy</td>
-</tr>
-
-[//]: # (69. Sqrt x)
-<tr>
-    <td style="color:green;text-align:center">&#10003;</td>
-    <td>
-        <a href="/src/main/java/com/leetcode/my/sqrtX">
-            69. Sqrt(x)
-        </a>
-    </td>
-    <td style="color:green;text-align:center">Easy</td>
-</tr>
-
-[//]: # (104. Maximum Depth of Binary Tree)
-<tr>
-    <td style="color:green;text-align:center">&#10003;</td>
-    <td>
-        <a href="/src/main/java/com/leetcode/my/maximumDepthOfBinaryTree">
-            104. Maximum Depth of Binary Tree
-        </a>
-    </td>
-    <td style="color:green;text-align:center">Easy</td>
-</tr>
-
-[//]: # (108. Convert Sorted Array to Binary Search Tree)
-<tr>
-    <td style="color:green;text-align:center">&#10003;</td>
-    <td>
-        <a href="/src/main/java/com/leetcode/my/convertSortedArrayToBinarySearchTree">
-            108. Convert Sorted Array to Binary Search Tree
-        </a>
-    </td>
-    <td style="color:green;text-align:center">Easy</td>
-</tr>
-
-[//]: # (125. Valid Palindrome)
-<tr>
-    <td style="color:green;text-align:center">&#10003;</td>
-    <td>
-        <a href="/src/main/java/com/leetcode/my/validPalindrome">
-            125. Valid Palindrome
-        </a>
-    </td>
-    <td style="color:green;text-align:center">Easy</td>
-</tr>
-
-[//]: # (130. Surrounded Regions)
-<tr>
-    <td style="color:green;text-align:center">&#10003;</td>
-    <td>
-        <a href="/src/main/java/com/leetcode/my/surroundedRegions">
-            130. Surrounded Regions
-        </a>
-    </td>
-    <td style="color:orange;text-align:center">Medium</td>
-</tr>
-
-[//]: # (167. Two Sum II - Input Array Is Sorted)
-<tr>
-    <td style="color:green;text-align:center">&#10003;</td>
-    <td>
-        <a href="/src/main/java/com/leetcode/my/twoSumIIInputArrayIsSorted">
-            167. Two Sum II - Input Array Is Sorted
-        </a>
-    </td>
-    <td style="color:green;text-align:center">Easy</td>
-</tr>
-
-[//]: # (189. Rotate Array)
-<tr>
-    <td style="color:green;text-align:center">&#10003;</td>
-    <td>
-        <a href="/src/main/java/com/leetcode/my/rotateArray">
-            189. Rotate Array
-        </a>
-    </td>
-    <td style="color:orange;text-align:center">Medium</td>
-</tr>
-
-[//]: # (203. Remove Linked List Elements)
-<tr>
-    <td style="color:green;text-align:center">&#10003;</td>
-    <td>
-        <a href="/src/main/java/com/leetcode/my/removeLinkedListElements">
-            203. Remove Linked List Elements
-        </a>
-    </td>
-    <td style="color:green;text-align:center">Easy</td>
-</tr>
-
-[//]: # (278. First Bad Version)
-<tr>
-    <td style="color:green;text-align:center">&#10003;</td>
-    <td>
-        <a href="/src/main/java/com/leetcode/my/firstBadVersion">
-            278. First Bad Version
-        </a>
-    </td>
-    <td style="color:green;text-align:center">Easy</td>
-</tr>
-
-[//]: # (283. Move Zeroes)
-<tr>
-    <td style="color:green;text-align:center">&#10003;</td>
-    <td>
-        <a href="/src/main/java/com/leetcode/my/moveZeroes">
-            283. Move Zeroes
-        </a>
-    </td>
-    <td style="color:green;text-align:center">Easy</td>
-</tr>
-
-[//]: # (300. Longest Increasing Subsequence)
-<tr>
-    <td style="color:green;text-align:center">&#10003;</td>
-    <td>
-        <a href="/src/main/java/com/leetcode/my/longestIncreasingSubsequence">
-            300. Longest Increasing Subsequence
-        </a>
-    </td>
-    <td style="color:orange;text-align:center">Medium</td>
-</tr>
-
-[//]: # (367. Valid Perfect Square)
-<tr>
-    <td style="color:green;text-align:center">&#10003;</td>
-    <td>
-        <a href="/src/main/java/com/leetcode/my/validPerfectSquare">
-            367. Valid Perfect Square
-        </a>
-    </td>
-    <td style="color:green;text-align:center">Easy</td>
-</tr>
-
-[//]: # (368. Largest Divisible Subset)
-<tr>
-    <td style="color:green;text-align:center">&#10003;</td>
-    <td>
-        <a href="/src/main/java/com/leetcode/my/largestDivisibleSubset">
-            368. Largest Divisible Subset
-        </a>
-    </td>
-    <td style="color:orange;text-align:center">Medium</td>
-</tr>
-
-[//]: # (371. Sum of Two Integers)
-<tr>
-    <td style="color:green;text-align:center">&#10003;</td>
-    <td>
-        <a href="/src/main/java/com/leetcode/my/sumOfTwoIntegers">
-            371. Sum of Two Integers
-        </a>
-    </td>
-    <td style="color:orange;text-align:center">Medium</td>
-</tr>
-
-[//]: # (704. Binary Search)
-<tr>
-    <td style="color:green;text-align:center">&#10003;</td>
-    <td>
-        <a href="/src/main/java/com/leetcode/my/binarySearch">
-            704. Binary Search
-        </a>
-    </td>
-    <td style="color:green;text-align:center">Easy</td>
-</tr>
-
-[//]: # (739. Daily Temperatures)
-<tr>
-    <td style="color:green;text-align:center">&#10003;</td>
-    <td>
-        <a href="/src/main/java/com/leetcode/my/dailyTemperatures">
-            739. Daily Temperatures
-        </a>
-    </td>
-    <td style="color:orange;text-align:center">Medium</td>
-</tr>
-
-[//]: # (977. Squares of a Sorted Array)
-<tr>
-    <td style="color:green;text-align:center">&#10003;</td>
-    <td>
-        <a href="/src/main/java/com/leetcode/my/squaresOfASortedArray">
-            977. Squares of a Sorted Array
-        </a>
-    </td>
-    <td style="color:green;text-align:center">Easy</td>
-</tr>
-
-[//]: # (1286. Iterator for Combination)
-<tr>
-    <td style="color:green;text-align:center">&#10003;</td>
-    <td>
-        <a href="/src/main/java/com/leetcode/my/iteratorForCombination">
-            1286. Iterator for Combination
-        </a>
-    </td>
-    <td style="color:orange;text-align:center">Medium</td>
-</tr>
-
-</table>
+|     Status     |     Title     |     Difficulty     |
+|:--------------:|---------------|--------------------|
+| :heavy_check_mark: | [1. Two Sum](/src/main/java/com/leetcode/my/twoSum)                                  | :green_circle: Easy |
+| :heavy_check_mark: | [2. Add Two Numbers](/src/main/java/com/leetcode/my/addTwoNumbers)                   | :orange_circle: Medium |
+| :heavy_check_mark: | [9. Palindrome Number](/src/main/java/com/leetcode/my/palindromeNumber)              | :green_circle: Easy |
+| :heavy_check_mark: | [12. Integer to Roman](/src/main/java/com/leetcode/my/integerToRoman)                | :orange_circle: Medium |
+| :heavy_check_mark: | [13. Roman to Integer](/src/main/java/com/leetcode/my/romanToInteger)                | :green_circle: Easy |
+| :heavy_check_mark: | [14. Longest Common Prefix](/src/main/java/com/leetcode/my/longestCommonPrefix)      | :green_circle: Easy |
+| :heavy_check_mark: | [14. Longest Common Prefix](/src/main/java/com/leetcode/my/longestCommonPrefix)      | :green_circle: Easy |
+| :heavy_check_mark: | [20. Valid Parentheses](/src/main/java/com/leetcode/my/validParentheses)             | :green_circle: Easy |
+| :heavy_check_mark: | [21. Merge Two Sorted Lists](/src/main/java/com/leetcode/my/mergeTwoSortedLists)     | :green_circle: Easy |
+| :heavy_check_mark: | [35. Search Insert Position](/src/main/java/com/leetcode/my/searchInsertPosition)    | :green_circle: Easy |
+| :heavy_check_mark: | [43. Multiply Strings](/src/main/java/com/leetcode/my/multiplyStrings)               | :orange_circle: Medium |
+| :heavy_check_mark: | [66. Plus One](/src/main/java/com/leetcode/my/plusOne)                               | :green_circle: Easy |
+| :heavy_check_mark: | [69. Sqrt(x)](/src/main/java/com/leetcode/my/sqrtX)                                  | :green_circle: Easy |
+| :heavy_check_mark: | [104. Maximum Depth of Binary Tree](/src/main/java/com/leetcode/my/maximumDepthOfBinaryTree) | :green_circle: Easy |
+| :heavy_check_mark: | [108. Convert Sorted Array to Binary Search Tree](/src/main/java/com/leetcode/my/convertSortedArrayToBinarySearchTree)   | :green_circle: Easy |
+| :heavy_check_mark: | [125. Valid Palindrome](/src/main/java/com/leetcode/my/validPalindrome)   | :green_circle: Easy |
+| :heavy_check_mark: | [130. Surrounded Regions](/src/main/java/com/leetcode/my/surroundedRegions)   | :orange_circle: Medium |
+| :heavy_check_mark: | [167. Two Sum II - Input Array Is Sorted](/src/main/java/com/leetcode/my/twoSumIIInputArrayIsSorted)   | :green_circle: Easy |
+| :heavy_check_mark: | [189. Rotate Array](/src/main/java/com/leetcode/my/rotateArray)   | :orange_circle: Medium |
+| :heavy_check_mark: | [203. Remove Linked List Elements](/src/main/java/com/leetcode/my/removeLinkedListElements)   | :green_circle: Easy |
+| :heavy_check_mark: | [278. First Bad Version](/src/main/java/com/leetcode/my/firstBadVersion)   | :green_circle: Easy |
+| :heavy_check_mark: | [283. Move Zeroes](/src/main/java/com/leetcode/my/moveZeroes)   | :green_circle: Easy |
+| :heavy_check_mark: | [300. Longest Increasing Subsequence](/src/main/java/com/leetcode/my/longestIncreasingSubsequence)   | :orange_circle: Medium |
+| :heavy_check_mark: | [367. Valid Perfect Square](/src/main/java/com/leetcode/my/validPerfectSquare)   | :green_circle: Easy |
+| :heavy_check_mark: | [368. Largest Divisible Subset](/src/main/java/com/leetcode/my/largestDivisibleSubset)   | :green_circle: Easy |
+| :heavy_check_mark: | [371. Sum of Two Integers](/src/main/java/com/leetcode/my/sumOfTwoIntegers)   | :orange_circle: Medium |
+| :heavy_check_mark: | [704. Binary Search](/src/main/java/com/leetcode/my/binarySearch)   | :green_circle: Easy |
+| :heavy_check_mark: | [739. Daily Temperatures](/src/main/java/com/leetcode/my/dailyTemperatures)   | :orange_circle: Medium |
+| :heavy_check_mark: | [977. Squares of a Sorted Array](/src/main/java/com/leetcode/my/squaresOfASortedArray)   | :green_circle: Easy |
+| :heavy_check_mark: | [1286. Iterator for Combination](/src/main/java/com/leetcode/my/iteratorForCombination)   | :orange_circle: Medium |

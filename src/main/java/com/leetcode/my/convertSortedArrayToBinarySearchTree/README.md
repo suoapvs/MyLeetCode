@@ -1,10 +1,10 @@
-<a href="https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/" target="_blank">
+<a href="https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/">
     <img src="/leetcode-logo.png" style="width:200px" alt="LeetCode"/>
 </a>
 
 ### 108. Convert Sorted Array to Binary Search Tree
 
-<span style="color:green">Easy</span>
+:green_circle: Easy
 
 Given an integer array `nums` where the elements are sorted in __ascending
 order__, convert it to _a __height-balanced__

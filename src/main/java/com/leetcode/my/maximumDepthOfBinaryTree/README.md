@@ -1,10 +1,10 @@
-<a href="https://leetcode.com/problems/maximum-depth-of-binary-tree/" target="_blank">
+<a href="https://leetcode.com/problems/maximum-depth-of-binary-tree/">
     <img src="/leetcode-logo.png" style="width:200px" alt="LeetCode"/>
 </a>
 
 ### 104. Maximum Depth of Binary Tree
 
-<span style="color:green">Easy</span>
+:green_circle: Easy
 
 Given the `root` of a binary tree, return _its maximum depth_.
 

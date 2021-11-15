@@ -4,7 +4,7 @@
 
 ### 69. Sqrt(x)
 
-<span style="color:green">Easy</span>
+:green_circle: Easy
 
 Given a non-negative integer `x`, compute and return _the square root of_ `x`.
 

@@ -4,7 +4,7 @@
 
 ### 203. Remove Linked List Elements
 
-<span style="color:green">Easy</span>
+:green_circle: Easy
 
 Given the `head` of a linked list and an integer `val`, remove all the nodes of
 the linked list that has

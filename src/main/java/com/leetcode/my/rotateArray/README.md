@@ -4,7 +4,7 @@
 
 ### 189. Rotate Array
 
-<span style="color:orange">Medium</span>
+:orange_circle: Medium
 
 Given an array, rotate the array to the right by `k` steps, where `k` is
 non-negative.

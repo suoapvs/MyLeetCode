@@ -4,7 +4,7 @@
 
 ### 371. Sum of Two Integers
 
-<span style="color:orange">Medium</span>
+:orange_circle: Medium
 
 Given two integers `a` and `b`, return _the sum of the two integers without
 using the operators `+` and `-`._

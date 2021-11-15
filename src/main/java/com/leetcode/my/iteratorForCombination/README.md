@@ -1,10 +1,10 @@
-<a href="https://leetcode.com/problems/iterator-for-combination/" target="_blank">
+<a href="https://leetcode.com/problems/iterator-for-combination/">
     <img src="/leetcode-logo.png" style="width:200px" alt="LeetCode"/>
 </a>
 
 ### 1286. Iterator for Combination
 
-<span style="color:orange">Medium</span>
+:orange_circle: Medium
 
 Design the `CombinationIterator` class:
 

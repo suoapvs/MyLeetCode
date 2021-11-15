@@ -4,7 +4,7 @@
 
 ### 20. Valid Parentheses
 
-<span style="color:green">Easy</span>
+:green_circle: Easy
 
 Given a string s containing just the characters
 `'('`, `')'`, `'{'`, `'}'`, `'['` and `']'`, determine if the input string is

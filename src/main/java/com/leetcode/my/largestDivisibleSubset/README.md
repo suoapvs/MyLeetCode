@@ -1,10 +1,10 @@
-<a href="https://leetcode.com/problems/largest-divisible-subset/" target="_blank">
+<a href="https://leetcode.com/problems/largest-divisible-subset/">
     <img src="/leetcode-logo.png" style="width:200px" alt="LeetCode"/>
 </a>
 
 ### 368. Largest Divisible Subset
 
-<span style="color:orange">Medium</span>
+:orange_circle: Medium
 
 Given a set of distinct positive integers nums, return the largest subset answer
 such that every pair (answer[i], answer[j]) of elements in this subset

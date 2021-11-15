@@ -1,10 +1,10 @@
-<a href="https://leetcode.com/problems/binary-search/" target="_blank">
+<a href="https://leetcode.com/problems/binary-search/">
     <img src="/leetcode-logo.png" style="width:200px" alt="LeetCode"/>
 </a>
 
 ### 704. Binary Search
 
-<span style="color:orange">Medium</span>
+:green_circle: Easy
 
 Given an array of integers `nums` which is sorted in ascending order, and an
 integer `target`, write a function to search `target` in `nums`. If `target`

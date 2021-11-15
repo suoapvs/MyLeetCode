@@ -4,7 +4,7 @@
 
 ### 13. Roman to Integer
 
-<span style="color:green">Easy</span>
+:green_circle: Easy
 
 Roman numerals are represented by seven different symbols:
 `I`, `V`, `X`, `L`, `C`, `D` and `M`.

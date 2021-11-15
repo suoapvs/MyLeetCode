@@ -1,10 +1,10 @@
-<a href="https://leetcode.com/problems/integer-to-roman/" target="_blank">
+<a href="https://leetcode.com/problems/integer-to-roman/">
     <img src="/leetcode-logo.png" style="width:200px" alt="LeetCode"/>
 </a>
 
 ### 12. Integer to Roman
 
-<span style="color:orange">Medium</span>
+:orange_circle: Medium
 
 Roman numerals are represented by seven different symbols:
 `I`, `V`, `X`, `L`, `C`, `D` and `M`.

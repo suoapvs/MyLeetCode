@@ -4,7 +4,7 @@
 
 ### 130. Surrounded Regions
 
-<span style="color:orange">Medium</span>
+:orange_circle: Medium
 
 Given an `m x n` matrix `board` containing `'X'` and `'O'`, _capture all regions
 that are 4-directionally surrounded by `'X'`_.

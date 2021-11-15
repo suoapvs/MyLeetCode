@@ -1,10 +1,10 @@
-<a href="https://leetcode.com/problems/daily-temperatures/" target="_blank">
+<a href="https://leetcode.com/problems/daily-temperatures/">
     <img src="/leetcode-logo.png" style="width:200px" alt="LeetCode"/>
 </a>
 
-### 108. Convert Sorted Array to Binary Search Tree
+### 739. Daily Temperatures
 
-<span style="color:orange">Medium</span>
+:orange_circle: Medium
 
 Given an array of integers `temperatures` represents the daily temperatures,
 return _an array_ `answer` such that `answer[i]` _is the number of days you have

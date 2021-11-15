@@ -1,10 +1,10 @@
-<a href="https://leetcode.com/problems/longest-increasing-subsequence/" target="_blank">
+<a href="https://leetcode.com/problems/longest-increasing-subsequence/">
     <img src="/leetcode-logo.png" style="width:200px" alt="LeetCode"/>
 </a>
 
 ### 300. Longest Increasing Subsequence
 
-<span style="color:orange">Medium</span>
+:orange_circle: Medium
 
 Given an integer array `nums`, return the length of the longest strictly
 increasing subsequence.

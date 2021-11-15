@@ -4,7 +4,7 @@
 
 ### 977. Squares of a Sorted Array
 
-<span style="color:green">Easy</span>
+:green_circle: Easy
 
 Given an integer array `nums` sorted in __non-decreasing__ order, return an array of
 ___the squares of each number__ sorted in non-decreasing order_.

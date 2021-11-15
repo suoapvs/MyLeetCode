@@ -1,10 +1,10 @@
-<a href="https://leetcode.com/problems/plus-one/" target="_blank">
+<a href="https://leetcode.com/problems/plus-one/">
     <img src="/leetcode-logo.png" style="width:200px" alt="LeetCode"/>
 </a>
 
 ### 66. Plus One
 
-<span style="color:green">Easy</span>
+:green_circle: Easy
 
 You are given a __large integer__ represented as an integer array `digits`,
 where each `digits[i]` is the <code>i<sup>th</sup></code> digit of the integer.

@@ -1,10 +1,10 @@
-<a href="https://leetcode.com/problems/merge-two-sorted-lists/" target="_blank">
+<a href="https://leetcode.com/problems/merge-two-sorted-lists/">
     <img src="/leetcode-logo.png" style="width:200px" alt="LeetCode"/>
 </a>
 
 ### 21. Merge Two Sorted Lists
 
-<span style="color:green">Easy</span>
+:green_circle: Easy
 
 Merge two sorted linked lists and return it as a __sorted__ list. The list
 should be made by splicing together the nodes of the first two lists.

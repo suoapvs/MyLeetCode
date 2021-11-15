@@ -4,7 +4,7 @@
 
 ### 167. Two Sum II - Input Array Is Sorted
 
-<span style="color:green">Easy</span>
+:green_circle: Easy
 
 Given a __1-indexed__ array of integers `numbers` that is already ___sorted in
 non-decreasing order___, find two numbers such that they add up to a specific

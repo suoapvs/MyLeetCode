@@ -1,10 +1,10 @@
-<a href="https://leetcode.com/problems/longest-common-prefix/" target="_blank">
+<a href="https://leetcode.com/problems/longest-common-prefix/">
     <img src="/leetcode-logo.png" style="width:200px" alt="LeetCode"/>
 </a>
 
 ### 14. Longest Common Prefix
 
-<span style="color:green">Easy</span>
+:green_circle: Easy
 
 Write a function to find the longest common prefix string amongst an array of
 strings.

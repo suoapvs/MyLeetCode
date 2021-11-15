@@ -4,7 +4,7 @@
 
 ### 283. Move Zeroes
 
-<span style="color:orange">Medium</span>
+:green_circle: Easy
 
 Given an integer array `nums`, move all `0`'s to the end of it while maintaining
 the relative order of the non-zero elements.

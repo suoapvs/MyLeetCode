@@ -1,10 +1,10 @@
-<a href="https://leetcode.com/problems/first-bad-version/" target="_blank">
+<a href="https://leetcode.com/problems/first-bad-version/">
     <img src="/leetcode-logo.png" style="width:200px" alt="LeetCode"/>
 </a>
 
 ### 278. First Bad Version
 
-<span style="color:green">Easy</span>
+:green_circle: Easy
 
 You are a product manager and currently leading a team to develop a new product.
 Unfortunately, the latest version of your product fails the quality check. Since

@@ -4,7 +4,7 @@
 
 ### 367. Valid Perfect Square
 
-<span style="color:green">Easy</span>
+:green_circle: Easy
 
 Given a __positive__ integer `num`, write a function which returns `true`
 if `num` is a perfect square else `false`.

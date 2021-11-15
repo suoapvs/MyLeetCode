@@ -1,10 +1,10 @@
-<a href="https://leetcode.com/problems/palindrome-number/" target="_blank">
+<a href="https://leetcode.com/problems/palindrome-number/">
     <img src="/leetcode-logo.png" style="width:200px" alt="LeetCode"/>
 </a>
 
 ### 9. Palindrome Number
 
-<span style="color:orange">Medium</span>
+:green_circle: Easy
 
 Given an integer `x`, return `true` if `x` is palindrome integer.
 

@@ -1,10 +1,10 @@
-<a href="https://leetcode.com/problems/multiply-strings/" target="_blank">
+<a href="https://leetcode.com/problems/multiply-strings/">
     <img src="/leetcode-logo.png" style="width:200px" alt="LeetCode"/>
 </a>
 
 ### 43. Multiply Strings
 
-<span style="color:orange">Medium</span>
+:orange_circle: Medium
 
 Given two non-negative integers `num1` and `num2` represented as strings, return
 the product of `num1` and `num2`, also represented as a string.

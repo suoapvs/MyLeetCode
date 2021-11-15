@@ -4,7 +4,7 @@
 
 ### 125. Valid Palindrome
 
-<span style="color:green">Easy</span>
+:green_circle: Easy
 
 A phrase is a __palindrome__ if, after converting all uppercase letters into
 lowercase letters and removing all non-alphanumeric characters, it reads the
