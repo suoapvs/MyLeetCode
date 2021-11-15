@@ -187,6 +187,17 @@
     <td style="color:orange;text-align:center">Medium</td>
 </tr>
 
+[//]: # (167. Two Sum II - Input Array Is Sorted)
+<tr>
+    <td style="color:green;text-align:center">&#10003;</td>
+    <td>
+        <a href="/src/main/java/com/leetcode/my/twoSumIIInputArrayIsSorted">
+            167. Two Sum II - Input Array Is Sorted
+        </a>
+    </td>
+    <td style="color:green;text-align:center">Easy</td>
+</tr>
+
 [//]: # (189. Rotate Array)
 <tr>
     <td style="color:green;text-align:center">&#10003;</td>
@@ -231,6 +242,17 @@
     <td style="color:green;text-align:center">Easy</td>
 </tr>
 
+[//]: # (300. Longest Increasing Subsequence)
+<tr>
+    <td style="color:green;text-align:center">&#10003;</td>
+    <td>
+        <a href="/src/main/java/com/leetcode/my/longestIncreasingSubsequence">
+            300. Longest Increasing Subsequence
+        </a>
+    </td>
+    <td style="color:orange;text-align:center">Medium</td>
+</tr>
+
 [//]: # (367. Valid Perfect Square)
 <tr>
     <td style="color:green;text-align:center">&#10003;</td>
@@ -240,6 +262,17 @@
         </a>
     </td>
     <td style="color:green;text-align:center">Easy</td>
+</tr>
+
+[//]: # (368. Largest Divisible Subset)
+<tr>
+    <td style="color:green;text-align:center">&#10003;</td>
+    <td>
+        <a href="/src/main/java/com/leetcode/my/largestDivisibleSubset">
+            368. Largest Divisible Subset
+        </a>
+    </td>
+    <td style="color:orange;text-align:center">Medium</td>
 </tr>
 
 [//]: # (371. Sum of Two Integers)
