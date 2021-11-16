@@ -29,9 +29,12 @@
 | :heavy_check_mark: | [278. First Bad Version](/src/main/java/com/leetcode/my/firstBadVersion)   | :green_circle: Easy |
 | :heavy_check_mark: | [283. Move Zeroes](/src/main/java/com/leetcode/my/moveZeroes)   | :green_circle: Easy |
 | :heavy_check_mark: | [300. Longest Increasing Subsequence](/src/main/java/com/leetcode/my/longestIncreasingSubsequence)   | :orange_circle: Medium |
+| :heavy_check_mark: | [344. Reverse String](/src/main/java/com/leetcode/my/reverseString)   | :green_circle: Easy |
 | :heavy_check_mark: | [367. Valid Perfect Square](/src/main/java/com/leetcode/my/validPerfectSquare)   | :green_circle: Easy |
 | :heavy_check_mark: | [368. Largest Divisible Subset](/src/main/java/com/leetcode/my/largestDivisibleSubset)   | :green_circle: Easy |
 | :heavy_check_mark: | [371. Sum of Two Integers](/src/main/java/com/leetcode/my/sumOfTwoIntegers)   | :orange_circle: Medium |
+| :heavy_check_mark: | [557. Reverse Words in a String III](/src/main/java/com/leetcode/my/kthSmallestNumberInMultiplicationTable)   | :red_circle: Hard |
+| :heavy_check_mark: | [668. Kth Smallest Number in Multiplication Table](/src/main/java/com/leetcode/my/reverseWordsInAStringIII)   | :green_circle: Easy |
 | :heavy_check_mark: | [704. Binary Search](/src/main/java/com/leetcode/my/binarySearch)   | :green_circle: Easy |
 | :heavy_check_mark: | [739. Daily Temperatures](/src/main/java/com/leetcode/my/dailyTemperatures)   | :orange_circle: Medium |
 | :heavy_check_mark: | [977. Squares of a Sorted Array](/src/main/java/com/leetcode/my/squaresOfASortedArray)   | :green_circle: Easy |
