@@ -13,10 +13,12 @@
 | :heavy_check_mark: | [13. Roman to Integer](/src/main/java/com/leetcode/my/romanToInteger)                | :green_circle: Easy |
 | :heavy_check_mark: | [14. Longest Common Prefix](/src/main/java/com/leetcode/my/longestCommonPrefix)      | :green_circle: Easy |
 | :heavy_check_mark: | [14. Longest Common Prefix](/src/main/java/com/leetcode/my/longestCommonPrefix)      | :green_circle: Easy |
+| :heavy_check_mark: | [19. Remove Nth Node From End of List](/src/main/java/com/leetcode/my/removeNthNodeFromEndOfList)             | :orange_circle: Medium |
 | :heavy_check_mark: | [20. Valid Parentheses](/src/main/java/com/leetcode/my/validParentheses)             | :green_circle: Easy |
 | :heavy_check_mark: | [21. Merge Two Sorted Lists](/src/main/java/com/leetcode/my/mergeTwoSortedLists)     | :green_circle: Easy |
 | :heavy_check_mark: | [35. Search Insert Position](/src/main/java/com/leetcode/my/searchInsertPosition)    | :green_circle: Easy |
 | :heavy_check_mark: | [43. Multiply Strings](/src/main/java/com/leetcode/my/multiplyStrings)               | :orange_circle: Medium |
+| :heavy_check_mark: | [62. Unique Paths](/src/main/java/com/leetcode/my/uniquePaths)                       | :orange_circle: Medium |
 | :heavy_check_mark: | [66. Plus One](/src/main/java/com/leetcode/my/plusOne)                               | :green_circle: Easy |
 | :heavy_check_mark: | [69. Sqrt(x)](/src/main/java/com/leetcode/my/sqrtX)                                  | :green_circle: Easy |
 | :heavy_check_mark: | [104. Maximum Depth of Binary Tree](/src/main/java/com/leetcode/my/maximumDepthOfBinaryTree) | :green_circle: Easy |
@@ -37,5 +39,6 @@
 | :heavy_check_mark: | [668. Kth Smallest Number in Multiplication Table](/src/main/java/com/leetcode/my/reverseWordsInAStringIII)   | :green_circle: Easy |
 | :heavy_check_mark: | [704. Binary Search](/src/main/java/com/leetcode/my/binarySearch)   | :green_circle: Easy |
 | :heavy_check_mark: | [739. Daily Temperatures](/src/main/java/com/leetcode/my/dailyTemperatures)   | :orange_circle: Medium |
+| :heavy_check_mark: | [876. Middle of the Linked List](/src/main/java/com/leetcode/my/middleOfTheLinkedList)   | :green_circle: Easy |
 | :heavy_check_mark: | [977. Squares of a Sorted Array](/src/main/java/com/leetcode/my/squaresOfASortedArray)   | :green_circle: Easy |
 | :heavy_check_mark: | [1286. Iterator for Combination](/src/main/java/com/leetcode/my/iteratorForCombination)   | :orange_circle: Medium |
