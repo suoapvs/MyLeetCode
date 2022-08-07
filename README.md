@@ -12,7 +12,6 @@
 | :heavy_check_mark: | [12. Integer to Roman](/src/main/java/com/leetcode/my/integerToRoman)                | :orange_circle: Medium |
 | :heavy_check_mark: | [13. Roman to Integer](/src/main/java/com/leetcode/my/romanToInteger)                | :green_circle: Easy |
 | :heavy_check_mark: | [14. Longest Common Prefix](/src/main/java/com/leetcode/my/longestCommonPrefix)      | :green_circle: Easy |
-| :heavy_check_mark: | [14. Longest Common Prefix](/src/main/java/com/leetcode/my/longestCommonPrefix)      | :green_circle: Easy |
 | :heavy_check_mark: | [19. Remove Nth Node From End of List](/src/main/java/com/leetcode/my/removeNthNodeFromEndOfList)             | :orange_circle: Medium |
 | :heavy_check_mark: | [20. Valid Parentheses](/src/main/java/com/leetcode/my/validParentheses)             | :green_circle: Easy |
 | :heavy_check_mark: | [21. Merge Two Sorted Lists](/src/main/java/com/leetcode/my/mergeTwoSortedLists)     | :green_circle: Easy |
