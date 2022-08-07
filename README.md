@@ -41,6 +41,7 @@
 | :heavy_check_mark: | [557. Reverse Words in a String III](/src/main/java/com/leetcode/my/kthSmallestNumberInMultiplicationTable)   | :red_circle: Hard |
 | :heavy_check_mark: | [668. Kth Smallest Number in Multiplication Table](/src/main/java/com/leetcode/my/reverseWordsInAStringIII)   | :green_circle: Easy |
 | :heavy_check_mark: | [704. Binary Search](/src/main/java/com/leetcode/my/binarySearch)   | :green_circle: Easy |
+| :heavy_check_mark: | [729. My Calendar I](/src/main/java/com/leetcode/my/myCalendarI)   | :orange_circle: Medium |
 | :heavy_check_mark: | [739. Daily Temperatures](/src/main/java/com/leetcode/my/dailyTemperatures)   | :orange_circle: Medium |
 | :heavy_check_mark: | [876. Middle of the Linked List](/src/main/java/com/leetcode/my/middleOfTheLinkedList)   | :green_circle: Easy |
 | :heavy_check_mark: | [977. Squares of a Sorted Array](/src/main/java/com/leetcode/my/squaresOfASortedArray)   | :green_circle: Easy |
