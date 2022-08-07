@@ -21,7 +21,7 @@ package com.leetcode.my.removeElement;
  * Repeat the process until j reaches the end of the array and
  * the new length is i.
  */
-public class Solution {
+class Solution {
 
     public int removeElement(int[] nums, int val) {
         int k = 0;

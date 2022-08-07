@@ -1,6 +1,6 @@
 package com.leetcode.my.removeDuplicatesFromSortedArray;
 
-public class Solution {
+class Solution {
 
     public int removeDuplicates(int[] nums) {
         int k = 0;
