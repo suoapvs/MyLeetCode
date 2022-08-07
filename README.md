@@ -16,6 +16,7 @@
 | :heavy_check_mark: | [19. Remove Nth Node From End of List](/src/main/java/com/leetcode/my/removeNthNodeFromEndOfList)             | :orange_circle: Medium |
 | :heavy_check_mark: | [20. Valid Parentheses](/src/main/java/com/leetcode/my/validParentheses)             | :green_circle: Easy |
 | :heavy_check_mark: | [21. Merge Two Sorted Lists](/src/main/java/com/leetcode/my/mergeTwoSortedLists)     | :green_circle: Easy |
+| :heavy_check_mark: | [26. Remove Duplicates from Sorted Array](/src/main/java/com/leetcode/my/removeDuplicatesFromSortedArray)     | :green_circle: Easy |
 | :heavy_check_mark: | [35. Search Insert Position](/src/main/java/com/leetcode/my/searchInsertPosition)    | :green_circle: Easy |
 | :heavy_check_mark: | [43. Multiply Strings](/src/main/java/com/leetcode/my/multiplyStrings)               | :orange_circle: Medium |
 | :heavy_check_mark: | [62. Unique Paths](/src/main/java/com/leetcode/my/uniquePaths)                       | :orange_circle: Medium |
