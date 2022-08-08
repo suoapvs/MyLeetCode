@@ -24,6 +24,7 @@
 | :heavy_check_mark: | [58. Length of Last Word](/src/main/java/com/leetcode/my//lengthOfLastWord)          | :green_circle: Easy |
 | :heavy_check_mark: | [62. Unique Paths](/src/main/java/com/leetcode/my/uniquePaths)                       | :orange_circle: Medium |
 | :heavy_check_mark: | [66. Plus One](/src/main/java/com/leetcode/my/plusOne)                               | :green_circle: Easy |
+| :heavy_check_mark: | [67. Add Binary](/src/main/java/com/leetcode/my/addBinary)                           | :green_circle: Easy |
 | :heavy_check_mark: | [69. Sqrt(x)](/src/main/java/com/leetcode/my/sqrtX)                                  | :green_circle: Easy |
 | :heavy_check_mark: | [104. Maximum Depth of Binary Tree](/src/main/java/com/leetcode/my/maximumDepthOfBinaryTree) | :green_circle: Easy |
 | :heavy_check_mark: | [108. Convert Sorted Array to Binary Search Tree](/src/main/java/com/leetcode/my/convertSortedArrayToBinarySearchTree)   | :green_circle: Easy |
