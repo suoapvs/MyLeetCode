@@ -17,10 +17,11 @@
 | :heavy_check_mark: | [21. Merge Two Sorted Lists](/src/main/java/com/leetcode/my/mergeTwoSortedLists)     | :green_circle: Easy |
 | :heavy_check_mark: | [26. Remove Duplicates from Sorted Array](/src/main/java/com/leetcode/my/removeDuplicatesFromSortedArray)     | :green_circle: Easy |
 | :heavy_check_mark: | [27. Remove Element](/src/main/java/com/leetcode/my/removeElement)                   | :green_circle: Easy |
-| :heavy_check_mark: | [28. Implement strStr()](/src/main/java/com/leetcode/my/implementStrStr)                   | :green_circle: Easy |
+| :heavy_check_mark: | [28. Implement strStr()](/src/main/java/com/leetcode/my/implementStrStr)             | :green_circle: Easy |
 | :heavy_check_mark: | [35. Search Insert Position](/src/main/java/com/leetcode/my/searchInsertPosition)    | :green_circle: Easy |
 | :heavy_check_mark: | [43. Multiply Strings](/src/main/java/com/leetcode/my/multiplyStrings)               | :orange_circle: Medium |
-| :heavy_check_mark: | [50. Pow(x, n)](/src/main/java/com/leetcode/my//powxN)               | :orange_circle: Medium |
+| :heavy_check_mark: | [50. Pow(x, n)](/src/main/java/com/leetcode/my//powxN)                               | :orange_circle: Medium |
+| :heavy_check_mark: | [58. Length of Last Word](/src/main/java/com/leetcode/my//lengthOfLastWord)          | :green_circle: Easy |
 | :heavy_check_mark: | [62. Unique Paths](/src/main/java/com/leetcode/my/uniquePaths)                       | :orange_circle: Medium |
 | :heavy_check_mark: | [66. Plus One](/src/main/java/com/leetcode/my/plusOne)                               | :green_circle: Easy |
 | :heavy_check_mark: | [69. Sqrt(x)](/src/main/java/com/leetcode/my/sqrtX)                                  | :green_circle: Easy |
