@@ -8,6 +8,7 @@
 |:--------------:|---------------|--------------------|
 | :heavy_check_mark: | [1. Two Sum](/src/main/java/com/leetcode/my/twoSum)                                  | :green_circle: Easy |
 | :heavy_check_mark: | [2. Add Two Numbers](/src/main/java/com/leetcode/my/addTwoNumbers)                   | :orange_circle: Medium |
+| :heavy_check_mark: | [7. Reverse Integer](/src/main/java/com/leetcode/my/reverseInteger)                  | :orange_circle: Medium |
 | :heavy_check_mark: | [9. Palindrome Number](/src/main/java/com/leetcode/my/palindromeNumber)              | :green_circle: Easy |
 | :heavy_check_mark: | [12. Integer to Roman](/src/main/java/com/leetcode/my/integerToRoman)                | :orange_circle: Medium |
 | :heavy_check_mark: | [13. Roman to Integer](/src/main/java/com/leetcode/my/romanToInteger)                | :green_circle: Easy |
