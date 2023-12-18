@@ -2,6 +2,9 @@
     <img src="/leetcode-logo.png" style="width:200px" alt="LeetCode"/>
 </a>
 
+<!-- Build status-->
+<img src="https://github.com/yuriisalimov/MyLeetCode/actions/workflows/build.yml/badge.svg" alt="Build Status">
+
 ### My solutions:
 
 |     Status     |     Title     |     Difficulty     |
