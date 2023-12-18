@@ -53,3 +53,4 @@
 | :heavy_check_mark: | [977. Squares of a Sorted Array](/src/main/java/com/leetcode/my/squaresOfASortedArray)   | :green_circle: Easy |
 | :heavy_check_mark: | [1220. Count Vowels Permutation](/src/main/java/com/leetcode/my/countVowelsPermutation)   | :red_circle: Hard |
 | :heavy_check_mark: | [1286. Iterator for Combination](/src/main/java/com/leetcode/my/iteratorForCombination)   | :orange_circle: Medium |
+| :heavy_check_mark: | [1913. Maximum Product Difference Between Two Pairs](/src/main/java/com/leetcode/my/maximumProductDifferenceBetweenTwoPairs)   | :green_circle: Easy |
