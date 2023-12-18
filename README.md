@@ -29,6 +29,7 @@
 | :heavy_check_mark: | [67. Add Binary](/src/main/java/com/leetcode/my/addBinary)                           | :green_circle: Easy |
 | :heavy_check_mark: | [69. Sqrt(x)](/src/main/java/com/leetcode/my/sqrtX)                                  | :green_circle: Easy |
 | :heavy_check_mark: | [83. Remove Duplicates from Sorted List](/src/main/java/com/leetcode/my/removeDuplicatesFromSortedList) | :green_circle: Easy |
+| :heavy_check_mark: | [88. Merge Sorted Array](/src/main/java/com/leetcode/my/mergeSortedArray) | :green_circle: Easy |
 | :heavy_check_mark: | [98. Validate Binary Search Tree](/src/main/java/com/leetcode/my/validateBinarySearchTree)   | :orange_circle: Medium |
 | :heavy_check_mark: | [104. Maximum Depth of Binary Tree](/src/main/java/com/leetcode/my/maximumDepthOfBinaryTree) | :green_circle: Easy |
 | :heavy_check_mark: | [108. Convert Sorted Array to Binary Search Tree](/src/main/java/com/leetcode/my/convertSortedArrayToBinarySearchTree)   | :green_circle: Easy |
