@@ -8,6 +8,7 @@
 |:--------------:|---------------|--------------------|
 | :heavy_check_mark: | [1. Two Sum](/src/main/java/com/leetcode/my/twoSum)                                  | :green_circle: Easy |
 | :heavy_check_mark: | [2. Add Two Numbers](/src/main/java/com/leetcode/my/addTwoNumbers)                   | :orange_circle: Medium |
+| :heavy_check_mark: | [3. Longest Substring Without Repeating Characters](/src/main/java/com/leetcode/my/longestSubstringWithoutRepeatingCharacters) | :orange_circle: Medium |
 | :heavy_check_mark: | [7. Reverse Integer](/src/main/java/com/leetcode/my/reverseInteger)                  | :orange_circle: Medium |
 | :heavy_check_mark: | [9. Palindrome Number](/src/main/java/com/leetcode/my/palindromeNumber)              | :green_circle: Easy |
 | :heavy_check_mark: | [12. Integer to Roman](/src/main/java/com/leetcode/my/integerToRoman)                | :orange_circle: Medium |
@@ -21,8 +22,8 @@
 | :heavy_check_mark: | [28. Implement strStr()](/src/main/java/com/leetcode/my/implementStrStr)             | :green_circle: Easy |
 | :heavy_check_mark: | [35. Search Insert Position](/src/main/java/com/leetcode/my/searchInsertPosition)    | :green_circle: Easy |
 | :heavy_check_mark: | [43. Multiply Strings](/src/main/java/com/leetcode/my/multiplyStrings)               | :orange_circle: Medium |
-| :heavy_check_mark: | [50. Pow(x, n)](/src/main/java/com/leetcode/my//powxN)                               | :orange_circle: Medium |
-| :heavy_check_mark: | [58. Length of Last Word](/src/main/java/com/leetcode/my//lengthOfLastWord)          | :green_circle: Easy |
+| :heavy_check_mark: | [50. Pow(x, n)](/src/main/java/com/leetcode/my/powxN)                               | :orange_circle: Medium |
+| :heavy_check_mark: | [58. Length of Last Word](/src/main/java/com/leetcode/my/lengthOfLastWord)          | :green_circle: Easy |
 | :heavy_check_mark: | [62. Unique Paths](/src/main/java/com/leetcode/my/uniquePaths)                       | :orange_circle: Medium |
 | :heavy_check_mark: | [66. Plus One](/src/main/java/com/leetcode/my/plusOne)                               | :green_circle: Easy |
 | :heavy_check_mark: | [67. Add Binary](/src/main/java/com/leetcode/my/addBinary)                           | :green_circle: Easy |
