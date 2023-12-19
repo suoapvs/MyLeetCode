@@ -2,8 +2,10 @@
     <img src="/leetcode-logo.png" style="width:200px" alt="LeetCode"/>
 </a>
 
+
 <!-- Build status-->
 <img src="https://github.com/yuriisalimov/MyLeetCode/actions/workflows/build.yml/badge.svg" alt="Build Status">
+
 
 ### My solutions:
 
@@ -50,6 +52,7 @@
 | :heavy_check_mark: | [371. Sum of Two Integers](/src/main/java/com/leetcode/my/sumOfTwoIntegers)   | :orange_circle: Medium |
 | :heavy_check_mark: | [378. Kth Smallest Element in a Sorted Matrix](/src/main/java/com/leetcode/my/kthSmallestElementInASortedMatrix)   | :orange_circle: Medium |
 | :heavy_check_mark: | [557. Reverse Words in a String III](/src/main/java/com/leetcode/my/kthSmallestNumberInMultiplicationTable)   | :red_circle: Hard |
+| :heavy_check_mark: | [661. Image Smoother](/src/main/java/com/leetcode/my/imageSmoother)   | :green_circle: Easy |
 | :heavy_check_mark: | [668. Kth Smallest Number in Multiplication Table](/src/main/java/com/leetcode/my/reverseWordsInAStringIII)   | :green_circle: Easy |
 | :heavy_check_mark: | [704. Binary Search](/src/main/java/com/leetcode/my/binarySearch)   | :green_circle: Easy |
 | :heavy_check_mark: | [729. My Calendar I](/src/main/java/com/leetcode/my/myCalendarI)   | :orange_circle: Medium |
